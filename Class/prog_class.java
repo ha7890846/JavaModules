@@ -26,8 +26,8 @@ public class prog_class {
         Person man1 = new Person();
         man1.age = 20;
         man1.name = "Rahul";
-        System.out.println("The age of person1 is: "+ man1.name);
-        System.out.println("The name of person1 is: " + man1.age);
+        System.out.println("The name of person1 is: "+ man1.name);
+        System.out.println("The age of person1 is: " + man1.age);
         man1.work();
         Person man2 = new Person("john",30);
         System.out.println("Here is the Name of person2: "+ man2.name);
