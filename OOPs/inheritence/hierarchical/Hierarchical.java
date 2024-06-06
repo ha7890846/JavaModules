@@ -19,7 +19,7 @@ class Child2 extends Parent{
         System.out.println("Child2 hair is Brown.");
     }
 };
-public class hybrid {
+public class Hierarchical {
     public static void main(String[] args) {
         Parent p = new Parent();
         p.name = "papa";
