@@ -1,4 +1,4 @@
-package example;
+
 // package OOPs.inheritence;
 // this is Parent/Super/Base class....
 class Smartphone{
