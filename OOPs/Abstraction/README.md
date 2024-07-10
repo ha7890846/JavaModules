@@ -1,6 +1,6 @@
 ### Abstraction...
 Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.
-#Abstract class in Java
+## Abstract class in Java
     A class which is declared as abstract is known as an abstract class. It can have abstract and non-abstract methods. It needs to be extended and its method implemented. It cannot be instantiated.
 ```bash  
 ## Points to Remember
