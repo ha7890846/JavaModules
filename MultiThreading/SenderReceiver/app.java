@@ -41,14 +41,6 @@ class Sender extends Thread{
     public Sender(Sms sms){
         sms_obj = sms;
     }
-    // public void run(){
-    //     while(choice){
-    //          System.out.print("Enter your message here: ");
-    //          String text = sc.nextLine();
-    //          sms_obj.writeSms(text);
-    //         }
-    // }
-    
     public void run() {
         while (choice) {
             System.out.println("Enter your message here (type 'over' to exit): ");
