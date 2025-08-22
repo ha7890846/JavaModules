@@ -20,5 +20,6 @@ public class Main {
             System.out.println(fib(i));
             i++;
         }
+        sc.close();     // closing the scanner obj
     }
 }
